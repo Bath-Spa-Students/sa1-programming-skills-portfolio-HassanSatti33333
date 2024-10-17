@@ -15,9 +15,9 @@
 # ```
 
 
-word1 = "Coding"
-word2 = "Is"                                   # Assigning variables 
-word3 = "Cool"
+word1 = "Coding"                               # Assigning 1st variable
+word2 = "Is"                                   # Assigning 2nd variable
+word3 = "Cool"                                 # Assigning 3rd variable
 
 print (word1 +" " + word2 +" " + word3)        # Concantenation using +
 print (word1, word2, word3)                    # Concantenation using ,
