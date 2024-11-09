@@ -11,9 +11,9 @@
 ## Ignore Capitalization: Modify your program to accept answers regardless of the capitalization (e.g., "paris", "Paris", and "PaRis" should all be considered correct).
 ## Multiple Questions: Extend the program into a quiz that asks for the capitals of 10 European countries. Provide feedback for each question.
 
-answer = input("What is the capital of France?" )           ## Questions the user
+answer = input("What is the capital of France?" )
 
-if answer == "Paris" :                                      ## Code for Correct Response 
-    print ("Answer is Correct")                             
-else:                                                       ## Code for Incorrect Response
-    print ("Answer is Incorrect")
+if answer == "Paris" :
+    print ("Answer is Correct")
+else:
+    print ("Answer is incorrect")
